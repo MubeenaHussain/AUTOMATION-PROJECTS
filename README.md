@@ -141,6 +141,47 @@ The automation listens to **incoming Gmail messages**, classifies the type of qu
 
 ---
 
+#  3 💼 LinkedIn Content Creator Workflow (n8n + OpenRouter)
+
+This project automates the creation of **LinkedIn posts** using **n8n**, **Google Sheets**, and **OpenRouter AI models**.  
+It’s designed to help creators, marketers, and founders generate high-quality, engaging LinkedIn content — instantly and at scale.
+
+---
+
+## 🧩 Workflow Overview
+
+The automation pulls topic ideas from Google Sheets, enriches them with insights via an API call, and uses an AI Agent to write **ready-to-post LinkedIn content**. The output is automatically written back to Google Sheets for review or posting.
+
+## 🧭 Workflow Diagram
+
+![LinkedIn Content Creator Workflow](https://github.com/MubeenaHussain/AUTOMATION-PROJECTS/blob/main/Screenshot%202025-10-19%20222638.png)
+
+---
+
+## 🔧 Workflow Components
+
+| Node | Description |
+|------|--------------|
+| **Execute Trigger** | Manually starts the workflow execution. |
+| **Get Row(s) in Sheet** | Reads topic ideas or prompts from Google Sheets. |
+| **HTTP Request** | Calls an external API (e.g., Tavily or another knowledge source) to enrich the content topic. |
+| **AI Agent** | Generates engaging LinkedIn posts using OpenRouter LLM. |
+| **OpenRouter Chat Model** | Powers the AI generation process with creative and professional tone. |
+| **Update Row in Sheet** | Writes the generated post content back to the sheet. |
+
+---
+
+## 🧠 System Prompt (AI Role Definition)
+
+**Role:**  
+LinkedIn Content Creator AI — expert in writing professional, concise, and high-engagement posts.
+
+**Context:**  
+Helps automation and AI professionals share insights and project stories on LinkedIn.
+
+**Task:**  
+Generate a 100–200 word LinkedIn post that:
+- Clearly explains the project or
 
 
 
