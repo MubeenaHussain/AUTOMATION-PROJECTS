@@ -45,7 +45,7 @@ Below is the flow diagram from n8n:
 |------|--------------|
 | ![WORKFLOW JSON FORMAT](https://github.com/MubeenaHussain/AUTOMATION-PROJECTS/blob/main/RAG%20PIPELINE%20%20AND%20CHATBOT.json) | n8n workflow export |
 | ![n8n Workflow](https://github.com/MubeenaHussain/AUTOMATION-PROJECTS/blob/main/Screenshot%202025-10-19%20210100.png)           | architecture diagram |
-| `README.md` | documentation (this file) |
+| ![README.md](https://github.com/MubeenaHussain/AUTOMATION-PROJECTS/blob/main/README.md)                                         | documentation (this file) |
 
 ---
 
@@ -60,5 +60,4 @@ Add visuals here 👇
 
 ## 🧕MUBEENA HUSSAIN
 mubeenahussain1205@gmail.com  
-📧 your.email@example.com
 
