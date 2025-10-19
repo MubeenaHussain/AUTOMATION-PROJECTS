@@ -93,7 +93,7 @@ The automation listens to **incoming Gmail messages**, classifies the type of qu
 
 ## 🧭 Workflow Diagram
 
-![Customer Support Workflow](images/customer-support-workflow.png)
+![Customer Support Workflow](https://github.com/MubeenaHussain/AUTOMATION-PROJECTS/blob/main/Screenshot%202025-10-19%20222638.png)
 
 
 ---
