@@ -24,9 +24,8 @@ This automation pipeline:
 
 Below is the flow diagram from n8n:
 
-![n8n Workflow](images/rag-pipeline-flow.png)
+![n8n Workflow](https://github.com/MubeenaHussain/AUTOMATION-PROJECTS/blob/main/Screenshot%202025-10-19%20210100.png)
 
-> *You can export your n8n workflow image by right-clicking → “Download image as PNG” inside n8n.*
 
 ---
 
