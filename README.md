@@ -43,8 +43,8 @@ Below is the flow diagram from n8n:
 
 | File | Description |
 |------|--------------|
-| `workflow_files/rag_chatbot.json` | n8n workflow export |
-| `images/rag-pipeline-flow.png` | architecture diagram |
+| ![WORKFLOW JSON FORMAT](https://github.com/MubeenaHussain/AUTOMATION-PROJECTS/blob/main/RAG%20PIPELINE%20%20AND%20CHATBOT.json) | n8n workflow export |
+| ![n8n Workflow](https://github.com/MubeenaHussain/AUTOMATION-PROJECTS/blob/main/Screenshot%202025-10-19%20210100.png)           | architecture diagram |
 | `README.md` | documentation (this file) |
 
 ---
