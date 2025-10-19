@@ -154,7 +154,7 @@ The automation pulls topic ideas from Google Sheets, enriches them with insights
 
 ## 🧭 Workflow Diagram
 
-![LinkedIn Content Creator Workflow](https://github.com/MubeenaHussain/AUTOMATION-PROJECTS/blob/main/Screenshot%202025-10-19%20222638.png)
+![LinkedIn Content Creator Workflow](https://github.com/MubeenaHussain/AUTOMATION-PROJECTS/blob/main/Screenshot%202025-10-19%20235552.png)
 
 ---
 
